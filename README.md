@@ -1,10 +1,8 @@
 # Flappy Bird
 
-I made this Flappy Bird rip off during highschool year 10 in 2021 from-scratch in **Pygame Zero**. This was my first coding project, so I got claude to go and compile it into an executable and push to a github repo. 
+I made this Flappy Bird rip off during highschool year 10 in 2021 from-scratch in **Pygame Zero**. This was my first coding project, I did not even know what a for loop was at the time, so this took me about 900 lines of very unoptimised while loops. I got claude to go and compile it into an executable and push to a github repo.
 
 Assessment submission video from June 2021: https://youtu.be/HMhVcQ_2fFY
-
-I did not even know what a for loop was at the time, so this took me about 900 lines of very unoptimised while loops.
 
 ![Flappy Bird](screenshot.png)
 
