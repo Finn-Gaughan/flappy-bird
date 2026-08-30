@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec~
+*.pyi
+
+# Virtual environments
+.venv/
+venv/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# The CI workflow is published to .github/workflows/ via the GitHub API (the local
+# git token lacks the `workflow` scope to push it). Kept untracked locally so
+# `git add -A` doesn't stage it and trigger push rejections.
+.github/workflows/
